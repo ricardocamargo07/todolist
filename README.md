@@ -1,6 +1,7 @@
-# TO DO LIST
-To Do List
+![todolist](https://user-images.githubusercontent.com/53793788/73383446-1c99c580-42a8-11ea-849e-e5a50ec1d0e5.png)
 
+
+# TO DO LIST
 
 - [Git](https://git-scm.com/docs/user-manual.html)
 - [PHP 7.2 ou superior](http://php.net/)
@@ -16,3 +17,5 @@ To Do List
 - Editar o arquivo `.env` e configurar todos dados do sistema
 - Ainda no arquivo `.env`, alterar a variável `APP_ENV` para o ambiente correto (testing, staging, production)
 - Ainda no arquivo `.env`, configurar banco de dados
+
+
